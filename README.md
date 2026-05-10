@@ -3,9 +3,9 @@ Configured automated deployment workflows using GitHub Actions to streamline app
 
 Connect to EC2 via SSH 
 
-AWS_ACCESS_KEY_ID
-AWS_REGION
-AWS_SECRET_ACCESS_KEY
+    AWS_ACCESS_KEY_ID
+    AWS_REGION
+    AWS_SECRET_ACCESS_KEY
 
 
 
